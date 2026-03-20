@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Tripti Mehta</h1>
-<h3 align="center">An Aspiring Data Analyst</h3>
+<h3 align="center">Business Analyst</h3>
 <img align="right" alt="coding" width ="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 
-- 🌱 I’m currently learning **Data Analysis using Python, SQL, Postgre SQL and BI Tools**
+- 🌱 I’m currently learning **Business Data Analysis using Python, SQL, Postgre SQL and BI Tools**
 
 - 👯 I’m looking to collaborate on **Data Analysis projects**
 
